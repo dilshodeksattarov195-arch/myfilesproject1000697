@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerpecrypt",
+        "uuid": 2677874,
+        "checksum": "0cseiw"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
